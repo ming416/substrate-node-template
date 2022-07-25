@@ -1,6 +1,6 @@
 #![cfg_attr(not(feature ="std"),no_std)]
 
-/// poe 交易存证
+/// poe 交易存证 by ming
 
 pub use pallet::*;
 
